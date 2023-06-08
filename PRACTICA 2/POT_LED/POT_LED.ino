@@ -1,4 +1,14 @@
-
+/*
+ * Fundacion Kinal
+ * Centro educativo tecnico laboral Kinal
+ * Electronica
+ * Grado: Quinto
+ * Sección: A
+ * Curso: Taller de electronica digital y reparación de computadoras I
+ * Nombre:Pablo David Hernandez Ajiataz
+ * Carnet: 2022472
+ * Proyecto: Uso de interrupciones externas - Bimestre III
+*/
 #define LED 5
 int luminosidad;
 void setup() {
