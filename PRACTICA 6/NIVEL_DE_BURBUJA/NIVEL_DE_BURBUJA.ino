@@ -5,7 +5,8 @@
    Grado: Quinto
    Sección: A
    Curso: Taller de electronica digital y reparación de computadoras I
-   Nombre:Pablo David Hernande Ajiataz 
+   Nombre:Pablo David Hernande Ajiataz y Angello Gabriel Mansilla Dieguez 
+   carnet: 2022472 y 2022380
 */
 #include<Wire.h>
 #include <LedControl.h>
